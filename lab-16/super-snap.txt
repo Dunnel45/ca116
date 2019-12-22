@@ -1,0 +1,8 @@
+rabbit
+dog
+cat
+mouse
+elephant
+mole
+sheep
+goat
